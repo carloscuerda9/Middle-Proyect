@@ -1,5 +1,5 @@
 # Middle-Proyect
-# Patent-Pending
+# Car Price Calculator
 
 <p align="center">
   <img src="https://github.com/carloscuerda9/Middle-Proyect/assets/157844996/d1c48f75-7f9b-4f5f-90ce-d47c4a6a60c9" alt="Sample image" width="30%">
