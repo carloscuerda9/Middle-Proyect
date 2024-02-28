@@ -42,7 +42,7 @@ This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed .
 
   3. **Results and Price Calculator Model:**
       - Last notebook presenting the obtained results and the final model of the price calculator.
-      - 
+        
 ## Tools:
 
 **Enviornments**
