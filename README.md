@@ -2,9 +2,9 @@
 # Patent-Pending
 
 <p align="center">
-  <img src="![image](https://github.com/carloscuerda9/Middle-Proyect/assets/157844996/d1c48f75-7f9b-4f5f-90ce-d47c4a6a60c9)
-" alt="Sample image" width="30%">
+  <img src="https://github.com/carloscuerda9/Middle-Proyect/assets/157844996/d1c48f75-7f9b-4f5f-90ce-d47c4a6a60c9" alt="Sample image" width="30%">
 </p>
+
 
 This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed .
 
